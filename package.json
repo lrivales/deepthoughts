@@ -22,5 +22,8 @@
   "homepage": "https://github.com/lrivales/deepthoughts#readme",
   "devDependencies": {
     "concurrently": "^7.0.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^5.3.0"
   }
 }
